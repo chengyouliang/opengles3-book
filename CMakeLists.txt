@@ -26,5 +26,6 @@ SUBDIRS( Common
          Chapter_14/ParticleSystem
          Chapter_14/ParticleSystemTransformFeedback 
          Chapter_14/Shadows 
+         Vao
          Chapter_14/TerrainRendering )	
 		
